@@ -83,6 +83,7 @@ This extension currently supports the following websites:
 * slashdot.org
 * smh.com.au
 * sun-sentinel.com
+* sunshinecoastdaily.com.au
 * technologyreview.com
 * theage.com.au
 * theaustralian.com.au
